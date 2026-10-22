@@ -19,6 +19,12 @@ Web studio and IT partner in **Rotterdam, the Netherlands** (Metaalhof 27). One 
 - **[schema-templates-nl](https://github.com/Joepify/schema-templates-nl)**: JSON-LD templates for Dutch businesses (KvK, VAT, services, FAQ) (CC0).
 - **[webshop-regels-nl](https://github.com/Joepify/webshop-regels-nl)**: checklist of Dutch webshop rules 2026 with official sources (CC BY 4.0).
 
+## Guides and data
+
+- **[joepify-kennisbank](https://github.com/Joepify/joepify-kennisbank)**: 33 Dutch guides (WordPress/PHP, DMARC/SPF/DKIM, SSL, webshop rules, Shopify) in Markdown. DOI [10.5281/zenodo.23561849](https://doi.org/10.5281/zenodo.23561849)
+- **[website-kosten-nl-2026](https://github.com/Joepify/website-kosten-nl-2026)**: what a website, webshop or custom software costs in the Netherlands in 2026, with JSON. DOI [10.5281/zenodo.23561851](https://doi.org/10.5281/zenodo.23561851)
+- **[geo-case-joepify](https://github.com/Joepify/geo-case-joepify)**: case study, GEO/AEO optimisation with measured before/after scores. DOI [10.5281/zenodo.23561853](https://doi.org/10.5281/zenodo.23561853)
+
 ## Free tools
 
 - Website check (security, SEO, legal basics): https://www.joepify.nl/website-apk
