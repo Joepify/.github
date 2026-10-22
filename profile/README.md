@@ -10,6 +10,12 @@ Web studio and IT partner in **Rotterdam, the Netherlands** (Metaalhof 27). One 
 
 - **[webshop-onderzoek-2026](https://github.com/Joepify/webshop-onderzoek-2026)**: State of the Dutch webshop 2026. Outside-in check of 220 Dutch webshops on SPF/DMARC, HTTPS and security headers, KvK/VAT details, withdrawal information, accessibility statements and cookie banners. CC BY 4.0. Report: https://www.joepify.nl/onderzoek-webshops-2026
 
+## Open-source tools
+
+- **[mail-auth-check](https://github.com/Joepify/mail-auth-check)**: check SPF, DMARC and DKIM for any domain (Python, no dependencies, MIT).
+- **[php-eol-check](https://github.com/Joepify/php-eol-check)**: see which PHP version a site exposes and whether it still gets security fixes (MIT).
+- **[webshop-regels-nl](https://github.com/Joepify/webshop-regels-nl)**: checklist of Dutch webshop rules 2026 with official sources (CC BY 4.0).
+
 ## Free tools
 
 - Website check (security, SEO, legal basics): https://www.joepify.nl/website-apk
