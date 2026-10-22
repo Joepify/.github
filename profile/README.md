@@ -8,7 +8,7 @@ Web studio and IT partner in **Rotterdam, the Netherlands** (Metaalhof 27). One 
 
 ## Open data
 
-- **[webshop-onderzoek-2026](https://github.com/Joepify/webshop-onderzoek-2026)**: State of the Dutch webshop 2026. Outside-in check of 220 Dutch webshops on SPF/DMARC, HTTPS and security headers, KvK/VAT details, withdrawal information, accessibility statements and cookie banners. CC BY 4.0. Report: https://www.joepify.nl/onderzoek-webshops-2026
+- **[webshop-onderzoek-2026](https://github.com/Joepify/webshop-onderzoek-2026)**: State of the Dutch webshop 2026. Outside-in check of 220 Dutch webshops on SPF/DMARC, HTTPS and security headers, KvK/VAT details, withdrawal information, accessibility statements and cookie banners. CC BY 4.0. DOI: [10.5281/zenodo.23561392](https://doi.org/10.5281/zenodo.23561392). Report: https://www.joepify.nl/onderzoek-webshops-2026
 
 ## Open-source tools
 
